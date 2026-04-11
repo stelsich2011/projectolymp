@@ -1,0 +1,6 @@
+path: C:\Users\user\projectolymp\dataset
+train: train/images
+val: val/images
+
+names:
+  0: marker  
